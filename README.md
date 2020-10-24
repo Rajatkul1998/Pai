@@ -1,2 +1,2 @@
 # Paint-Project-using-opencv
-![alt text](http://url/to/Screenshot(87).png)
+https://github.com/Rajatkul1998/Paint-Project-using-opencv/blob/master/Screenshot%20(87).png?raw=true
