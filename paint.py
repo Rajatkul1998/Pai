@@ -27,8 +27,7 @@ def getcontours(img):
             peri=cv2.arcLength(cnt,True)
             approx=cv2.approxPolyDP(cnt,0.02*peri,True)
             x,y,w,h=cv2.boundingRect(approx)
-            cv2.rectangle(img,(x,y),(x+w,y+h),(0,0,0), 3)
-            cv2.imshow("contour",img)
+            
     
     return x+w//2,y
 def findcolour(image,mycolours,mycolourvalues):
