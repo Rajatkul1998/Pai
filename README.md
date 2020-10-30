@@ -1,4 +1,4 @@
-# Paint-Project-using-opencv
+# Paint-And-Erase-Project-using-opencv
 <img src="https://github.com/Rajatkul1998/Paint-Project-using-opencv/blob/master/Demo.gif?raw=true">
 
 <img src="https://github.com/Rajatkul1998/Paint-Project-using-opencv/blob/master/Screenshot%20(87).png?raw=true">
