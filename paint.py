@@ -6,7 +6,7 @@ from CONFIG import mycolourvalues
 
 vid = cv2.VideoCapture(0) 
 
-vid.set(cv2.CAP_PROP_FRAME_WIDTH, 350)
+vid.set(cv2.CAP_PROP_FRAME_WIDTH, 400)
 vid.set(cv2.CAP_PROP_FRAME_HEIGHT, 650)
   
 
